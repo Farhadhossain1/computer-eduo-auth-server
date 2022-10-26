@@ -4,7 +4,7 @@ const cors = require('cors')
 const port = process.env.PORT || 5000;
 
 app.use(cors())
-
+const coursesInfo =require('./data/coursesNames.json')
 app.get('/', (req, res) =>{
     res.send('Courses API running')
 });
