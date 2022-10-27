@@ -1,161 +1,81 @@
 [
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
     "category_id": "01",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
-    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-    "author": {
-      "name": "Jimmy Dane",
-      "published_date": "2022-08-24 17:27:34",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "title": "Python For Beginners ",
+    "image_url": "https://i.ytimg.com/vi/65ibpTel03M/maxresdefault.jpg",
+    "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.Installing Python is generally easy, and nowadays many Linux and UNIX distributions include a recent Python. Even some Windows computers (notably those from HP) now come with Python already installed."
   },
 
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
     "category_id": "02",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
-    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-    "author": {
-      "name": "Jimmy Dane",
-      "published_date": "2022-08-24 17:27:34",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "title": "Now learning from anywhere, and build your bright career.",
+    "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/06/Java-Programs.jpg",
+    "details": "Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes Java one of the most popular programming languages.Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. James Gosling is known as the father of Java. Before Java, its name was Oak. Since Oak was already a registered company,  James Gosling and his team changed the name from Oak to Java."
   },
 
   {
     "_id": "f69a695f037cd9484cecaea37ca71011",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
     "category_id": "03",
     "rating": { "number": 4.8, "badge": "Excellent" },
     "total_view": 400,
-    "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
-    "author": {
-      "name": "Jennifer Wood",
-      "published_date": "2022-08-30 16:38:45",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-    "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-    "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+    "title": "Getting started with the javaScript",
+    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/03/What-is-JavaScript-1.jpg",
+    "details": "JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc. This article helps you get started with JavaScript and furthers your understanding of what is possible.JavaScript itself is relatively compact, yet very flexible. Developers have written a variety of tools on top of the core JavaScript language, unlocking a vast amount of functionality with minimum effort. "
   },
 
   {
     "_id": "f69a695f037cd9484cecaea37ca71012",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
     "category_id": "04",
     "rating": { "number": 4.3, "badge": "Excellent" },
     "total_view": 400,
-    "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
-    "author": {
-      "name": "Jennifer Wood",
-      "published_date": "2022-08-30 16:38:45",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-    "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-    "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+    "title": "Hello World using C Programming",
+    "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/08/C-Programming-Tutorial-1.jpg",
+    "details": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers."
   },
 
   {
     "_id": "11468ed61aee84de492a8b04158a22f9",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": false
-    },
     "category_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 980,
-    "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
-    "author": {
-      "name": "system",
-      "published_date": "2022-08-24 23:15:00",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-    "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-    "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    "title": "Welcome to C++ Programming Language Houses ",
+    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2015/12/C-Programming-Language.jpg",
+    "details": "C++ is very close to hardware, so you get a chance to work at a low level which gives you lot of control in terms of memory management, better performance and finally a robust software development.C++ is one of the every green programming languages and loved by millions of software developers. If you are a great C++ programmer then you will never sit without work and more importantly you will get highly paid for your work.C++ programming gives you a clear understanding about Object Oriented Programming. You will understand low level implementation of polymorphism when you will implement virtual tables and virtual table pointers, or dynamic type identification."
   },
 
   {
     "_id": "11468ed61aee84de492a8b04158a22f0",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": false
-    },
     "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 980,
-    "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
-    "author": {
-      "name": "system",
-      "published_date": "2022-08-24 23:15:00",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-    "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-    "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    "title": "The PHP Programming Language Courses Just Coming For You",
+    "image_url": "https://ais-10072.kxcdn.com/wp-content/uploads/2022/09/the-Rise-of-PHP-As-a-Web-Development-Programming-Language-1.jpg",
+    "details": "PHP is an open-source server-side scripting language that many devs use for web development. It is also a general-purpose language that you can use to make lots of projects, including Graphical User Interfaces (GUIs).PHP runs on the Zend engine, which is the most popular implementation. There are some other implementations as well, like parrot, HPVM (Hip Hop Virtual Machine), and Hip Hop, created by Facebook."
   },
 
   {
     "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
     "category_id": "07",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": null,
-    "title": "Tucker Carlson: Putin Winning in Ukraine, Biden Hurting West",
-    "author": {
-      "name": null,
-      "published_date": "2022-08-30 15:00:04",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-    "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-    "details": "Fox News's top-rated host, Tucker Carlson, claimed on Monday night that Russian President Vladimir Putin is in fact winning the war in Ukraine, and President Joe Biden's insistence that Putin surrenders his campaign to take over Ukraine is actually evidence Biden's ultimate goal is to 'destroy the West.' Carlson arrived at his bizarre claim after railing against European and American military aid to Ukraine. 'Italy's Ukraine funding is a lot, but it's not quite as much as France. France has sent more than $2 billion U."
+    "title": "Welcome to Swift.org",
+    "image_url": "https://i.ytimg.com/vi/Ulp1Kimblg0/maxresdefault.jpg",
+    "details": "Swift is the result of the latest research on programming languages, combined with decades of experience building Apple platforms. Named parameters are expressed in a clean syntax that makes APIs in Swift even easier to read and maintain. Even better, you don’t even need to type semi-colons. Inferred types make code cleaner and less prone to mistakes, while modules eliminate headers and provide namespaces. To best support international languages and emoji, Strings are Unicode-correct and use a UTF-8 based encoding to optimize performance for a wide-variety of use cases. Memory is managed automatically using tight, deterministic reference counting, keeping memory usage to a minimum without the overhead of garbage collection. You can even write concurrent code with simple, built-in keywords that define asynchronous behavior, making your code more readable and less error-prone."
   },
 
   {
     "_id": "a713ee936ff5574273f0f769f5c5b20e",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
     "category_id": "08",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 111,
-    "title": "America Imported Over $6 Billion in Goods From Russia Since Ukraine Invasion",
-    "author": {
-      "name": "system",
-      "published_date": null,
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-    "image_url": "https://i.ibb.co/xh57pkr/unsplash-Eh-Tc-C9s-YXsw-1.png",
-    "details": "To receive Global Research's Daily Newsletter (selected articles), click here. Follow us on Instagram and Twitter and subscribe to our Telegram Channel. Feel free to repost and share widely Global Research articles. *** In response to Russia's attack on Ukraine, US President Joe Biden vowed to isolate... read full story"
+    "title": "(programming language)",
+    "image_url": "https://www.acte.in/wp-content/uploads/2021/12/Go-Programming-Language-ACTE.jpg",
+    "details": "At the time, no single team member knew Go, but within a month, everyone was writing in Go and we were building out the endpoints. It was the flexibility, how easy it was to use, and the really cool concept behind Go (how Go handles native concurrency, garbage collection, and of course safety+speed.) that helped engage us during the build. Also, who can beat that cute mascot"
   }
 ]

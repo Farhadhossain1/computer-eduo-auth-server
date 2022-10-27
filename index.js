@@ -34,3 +34,4 @@ app.get('/coursesNews/:id' ,(req, res) =>{
 app.listen(port , () =>{
     console.log('Courses server running on port', port);
 })
+
