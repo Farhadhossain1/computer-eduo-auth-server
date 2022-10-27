@@ -56,7 +56,7 @@
     "total_view": 980,
     "title": "The PHP Programming Language Courses Just Coming For You",
     "image_url": "https://ais-10072.kxcdn.com/wp-content/uploads/2022/09/the-Rise-of-PHP-As-a-Web-Development-Programming-Language-1.jpg",
-    "details": "PHP is an open-source server-side scripting language that many devs use for web development. It is also a general-purpose language that you can use to make lots of projects, including Graphical User Interfaces (GUIs).PHP runs on the Zend engine, which is the most popular implementation. There are some other implementations as well, like parrot, HPVM (Hip Hop Virtual Machine), and Hip Hop, created by Facebook."
+    "details": "PHP is an open-source server-side scripting language that many devs use for web development. It is also a general-purpose language that you can use to makes lots of projects, including Graphical User Interfaces (GUIs).PHP runs on the Zend engine, which is the most popular implementation. There are some other implementations as well, like parrot, HPVM (Hip Hop Virtual Machine), and Hip Hop, created by Facebook."
   },
 
   {
@@ -66,7 +66,7 @@
     "total_view": null,
     "title": "Welcome to Swift.org",
     "image_url": "https://i.ytimg.com/vi/Ulp1Kimblg0/maxresdefault.jpg",
-    "details": "Swift is the result of the latest research on programming languages, combined with decades of experience building Apple platforms. Named parameters are expressed in a clean syntax that makes APIs in Swift even easier to read and maintain. Even better, you don’t even need to type semi-colons. Inferred types make code cleaner and less prone to mistakes, while modules eliminate headers and provide namespaces. To best support international languages and emoji, Strings are Unicode-correct and use a UTF-8 based encoding to optimize performance for a wide-variety of use cases. Memory is managed automatically using tight, deterministic reference counting, keeping memory usage to a minimum without the overhead of garbage collection. You can even write concurrent code with simple, built-in keywords that define asynchronous behavior, making your code more readable and less error-prone."
+    "details": "Swift is the result of the latest research on programming languages, combined with decades of experience building Apple platforms. Named parameters are expressed in a clean syntax that makes APIs in Swift even easier to read and maintain. Even better, you don’t even need to type semi-colons. Inferred types to make code cleaner and less prone to mistakes, while modules eliminate headers and provide namespaces. To best support international languages and emoji, Strings are Unicode-correct and use a UTF-8 based encoding to optimize performance for a wide-variety of use cases. Memory is managed automatically using tight, deterministic reference counting, keeping memory usage to a minimum without the overhead of garbage collection. You can even write concurrent code with simple, built-in keywords that define asynchronous behavior, making your code more readable and less error-prone."
   },
 
   {
@@ -74,7 +74,7 @@
     "category_id": "08",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 111,
-    "title": "(programming language)",
+    "title": "Go (programming language)",
     "image_url": "https://www.acte.in/wp-content/uploads/2021/12/Go-Programming-Language-ACTE.jpg",
     "details": "At the time, no single team member knew Go, but within a month, everyone was writing in Go and we were building out the endpoints. It was the flexibility, how easy it was to use, and the really cool concept behind Go (how Go handles native concurrency, garbage collection, and of course safety+speed.) that helped engage us during the build. Also, who can beat that cute mascot"
   }

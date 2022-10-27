@@ -1,34 +1,34 @@
 [
   {
     "id": "01",
-    "name": "Breaking News"
+    "name": "Learn Python Today"
   },
   {
     "id": "02",
-    "name": "Regular News"
+    "name": "Java Programming"
   },
   {
     "id": "03",
-    "name": "International News"
+    "name": "JavaScript Courses"
   },
   {
     "id": "04",
-    "name": "Sports"
+    "name": "C Programming Care"
   },
   {
     "id": "05",
-    "name": "Entertainment"
+    "name": "C++ Programming Center"
   },
   {
     "id": "06",
-    "name": "Culture"
+    "name": "PHP Programming Language"
   },
   {
     "id": "07",
-    "name": "Arts"
+    "name": "Swift Programming Courses"
   },
   {
     "id": "08",
-    "name": "All News"
+    "name": "Go Programming Language"
   }
 ]
