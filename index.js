@@ -30,6 +30,11 @@ app.get('/coursesNews/:id' ,(req, res) =>{
     const selectedCourseNews = coursesNews.find( n => n._id === id)
     res.send(selectedCourseNews);
 })
+app.get('/courses/checkout/:id' ,(req, res) =>{
+    const id = req.params.id;
+    const selectedCourseNews = coursesNews.find( n => n._id === id)
+    res.send(selectedCourseNews);
+})
 
 app.listen(port , () =>{
     console.log('Courses server running on port', port);
